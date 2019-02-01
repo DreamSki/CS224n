@@ -1,2 +1,2 @@
 # CS224n
-aCS224n learning
+It is just for learning CS224n-winter-2019
